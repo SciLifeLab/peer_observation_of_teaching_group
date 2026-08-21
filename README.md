@@ -1,2 +1,32 @@
-# peer-observation-of-teaching-group
-Page for the group of teachers that want to do peer observation
+# Peer Observation of Teaching Group
+
+<!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
+
+[![Check links](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/check_links.yaml)
+[![Check Markdown](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/check_markdown.yaml)
+[![Check spelling](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/check_spelling.yaml)
+[![Create site](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/create_site.yaml/badge.svg?branch=main)](https://github.com/SciLifeLab/peer-observation-of-teaching-group/actions/workflows/create_site.yaml)
+
+<!-- markdownlint-enable MD013 -->
+
+The SciLifeLab Peer Observation of Teaching Group
+is a group that does peer observation of teaching
+
+Go to [the nicely rendered pages](https://scilifelab.github.io/peer-observation-of-teaching-group).
+
+## Files used by continuous integration scripts
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+| Filename                                     | Descriptions                                                                                                                                |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`mlc_config.json`](mlc_config.json)         | Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally      |
+| [`.editorconfig`](.editorconfig)             | Configuration for Prettier, run with `./scripts/run_prettier.sh` to run Prettier locally                                                    |
+| [`.jscpd.json`](.jscpd.json)                 | Configuration for `jscpd`, as used by Prettier                                                                                              |
+| [`.prettierrc.yaml`](.prettierrc.yaml)       | Configuration for Prettier, run with `./scripts/run_prettier.sh` to run Prettier locally                                                    |
+| [`.spellcheck.yml`](.spellcheck.yml)         | Configuration of the spell checker, use `pyspelling -c .spellcheck.yml` to do spell checking locally                                        |
+| [`.wordlist.txt`](.wordlist.txt)             | Whitelisted words for the spell checker, use `pyspelling -c .spellcheck.yml` to do spell checking locally                                   |
+| [`.markdownlint.jsonc`](.markdownlint.jsonc) | Configuration of the Markdown linter, use `markdownlint "**/*.md"` to do Markdown linting locally. The name of this file is a default name. |
+| [`.markdownlintignore`](.markdownlintignore) | Files ignored by the Markdown linter, use `markdownlint "**/*.md"` to do Markdown linting locally. The name of this file is a default name. |
+
+<!-- markdownlint-enable MD013 -->
