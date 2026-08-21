@@ -6,11 +6,11 @@ tags:
 
 # Data
 
-This is the data collected by the Teaching Literature Club.
+This is the data collected by the Peer Observation of Teaching Group.
 
 ## [n_visitors_per_event.csv](data/n_visitors_per_event.csv)
 
-The number of visitors per Teaching Literature Club event.
+The number of visitors per Peer Observation of Teaching Group event.
 
 | Field        | Description                                            |
 | ------------ | ------------------------------------------------------ |
@@ -24,7 +24,7 @@ The number of visitors per Teaching Literature Club event.
 ## [data_request.csv](data/data_request.csv)
 
 The status of data requests sent to the authors of paper discussed
-in the Teaching Literature Club.
+in the Peer Observation of Teaching Group.
 
 | Field          | Description                                              |
 | -------------- | -------------------------------------------------------- |

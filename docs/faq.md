@@ -7,14 +7,10 @@ tags:
 
 # FAQ
 
-## What is the goal of the teaching literature club?
+## What is the goal of the peer observation group?
 
-Successful journal clubs have a long-term overarching
-goal `[Deenadayalan et al., 2008]`.
-
-The goal of this teaching literature club is,
-by reading and discussing the literature on teaching,
-to become a better teachers
+The goal of this teaching literature club is
+to become better teachers
 
 ## How do I know when meetings are?
 
@@ -72,7 +68,7 @@ Great!
 the reading materials one meeting in advance with the rest.
 
 To let us know:
-[create an issue](https://github.com/SciLifeLab/teaching_literature_club/issues)
+[create an issue](https://github.com/SciLifeLab/peer_observation_of_teaching_group/issues)
 or send an email to `richel.bilderbeek@icm.uu.se`.
 
 **Second**, on the day you discuss a paper or book chapter,
@@ -134,7 +130,7 @@ There are points we feel we can deviate from the literature:
 
 You can share your feedback at this repository by:
 
-- creating an [Issue](https://github.com/SciLifeLab/teaching_literature_club/issues):
+- creating an [Issue](https://github.com/SciLifeLab/peer_observation_of_teaching_group/issues):
   this results in a public discussion and require a GitHub account
 - sending an email to `richel.bilderbeek@icm.uu.se`
 - share your feedback in the next round:
