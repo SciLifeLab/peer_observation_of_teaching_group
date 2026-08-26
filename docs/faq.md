@@ -7,13 +7,39 @@ tags:
 
 # FAQ
 
-## What is the goal of this group?
+- About [this group](#this-group)
+- About [peer observation](#peer_observation)
+
+## This group
+
+### What is the goal of this group?
 
 The goal of this group is
 to practice peer observation (of teaching)
 to become a better teacher
 
-## What is peer observation?
+## How do I know when I can possibly observe?
+
+Opportunities to observe are announced in:
+
+- The SciLifeLab `#peer-observation-of-teaching` channel
+- The email list
+
+## I am not part of SciLifeLab. Am I welcome to join?
+
+Yes.
+
+## How can I contact this group?
+
+See [contact us](contact_us.md).
+
+## How can I follow this group?
+
+See [follow us](follow_us.md).
+
+## Peer observation
+
+### What is peer observation?
 
 Peer observation (of teaching) is the observation of a teaching session,
 after which this session is used as a shared experience to be discussed
@@ -38,7 +64,7 @@ Risks                                | Complacency, conservatism, unfocused
 
 <!-- markdownlint-enable MD013 -->
 
-## How does a peer observation work?
+### How does a peer observation work?
 
 For the peer observation of one teaching session,
 there are three contact moments:
@@ -95,7 +121,7 @@ flowchart TD
   schedule --> pre-meeting --> observation --> post-meeting
 ```
 
-## Why is peer observation important?
+### Why is peer observation important?
 
 - Peer observation of teaching is
   **one of the two most important ways**
@@ -107,7 +133,7 @@ flowchart TD
   peer observation of teaching is **one of the few things**
   valued among university teachers `[Smith and Wyness, 2025]`
 
-## How important are peer observations compared to other activities?
+### How important are peer observations compared to other activities?
 
 - It is among the **two** most important ways to grow as a teaching
   (the other being self-reflection)
@@ -123,17 +149,6 @@ flowchart TD
   to actually grow as a teacher `[Steinert et al., 2016]`
 - There is no evidence that feedback from learners
   improves teaching `[Kember et al., 2002]`
-
-## How do I know when I can possibly observe?
-
-Opportunities to observe are announced in:
-
-- The SciLifeLab `#peer-observation-of-teaching` channel
-- The email list
-
-## I am not part of SciLifeLab. Am I welcome to join?
-
-Yes.
 
 ## References
 

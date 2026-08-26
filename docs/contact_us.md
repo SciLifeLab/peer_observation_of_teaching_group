@@ -34,15 +34,8 @@ or [contribute to this website](contributing.md)
 
 ## Email list
 
-You can subscribe to our email list and/or send your question to it.
-
-<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
-
-Logo                                           |Link
------------------------------------------------|---------------------------------------------------------
-![FreeLists logo](freelists_logo_114_x_34.png) | **[Email list](https://www.freelists.org/list/peer_observation_of_teaching)**
-
-<!-- markdownlint-enable MD013 -->
+You can send your question to it: simply send an email to
+`peer_observation_of_teaching@freelists.org`. 
 
 ## Email
 
