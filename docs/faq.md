@@ -22,8 +22,10 @@ to become a better teacher
 
 Opportunities to observe are announced in:
 
-- The SciLifeLab `#peer-observation-of-teaching` channel
-- The email list
+- ![Slack logo](slack_logo_34_x_34.png) [Slack](follow_us.md#slack).
+  See [How to follow us on Slack](follow_us.md#slack)
+- ![FreeLists logo](freelists_logo_114_x_34.png) [Email list](follow_us.md#email-list)
+  See [How to follow us using an email list](follow_us.md#email-list)
 
 ## I am not part of SciLifeLab. Am I welcome to join?
 
