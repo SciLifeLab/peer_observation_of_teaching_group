@@ -1,11 +1,11 @@
 ---
 tags:
-  - about
   - main page
   - home
+  - welcome
 ---
 
-# About the SciLifeLab Peer Observation of Teaching Group
+# The SciLifeLab Peer Observation of Teaching Group
 
 <!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
 
@@ -17,6 +17,8 @@ tags:
 <!-- markdownlint-enable MD013 -->
 
 The SciLifeLab Peer Observation of Teaching Group
-is a group that does peer observation of teaching
+is a group that does peer observation of teaching.
+Its goal is to practice peer observation to become better teachers.
 
-Goal: practice peer observation to become a better teacher
+To participate, [follow us](follow_us.md).
+Your questions are answered in [the frequently asked questions](faq.md).
