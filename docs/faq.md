@@ -8,7 +8,7 @@ tags:
 # FAQ
 
 - About [this group](#this-group)
-- About [peer observation](#peer_observation)
+- About [peer observation](#peer-observation)
 
 ## This group
 
