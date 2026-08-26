@@ -6,7 +6,7 @@ tags:
 
 # Follow us
 
-There are multiple ways to follow us:
+Below is an overview of the channels available, with more details below.
 
 Logo                                           |Method to follow us
 -----------------------------------------------|-------------------------
@@ -18,8 +18,9 @@ Logo                                           |Method to follow us
 We have a public channel in the SciLifeLab Slack server
 called `peer-observation-of-teaching`.
 
-If you are not part of this server,
-[contact us by email](contact_us.md#email) to request access.
+If you are not part of that server,
+[contact us by email](contact_us.md#email) to request access
+and you will be added.
 
 ## Email list
 

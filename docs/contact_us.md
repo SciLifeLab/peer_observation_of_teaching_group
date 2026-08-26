@@ -13,7 +13,7 @@ tags:
 
 Never hesitate to contact us!
 
-These channels are available:
+Below is an overview of the channels available, with more details below.
 
 Logo                                           |Method to contact us
 -----------------------------------------------|-------------------------
