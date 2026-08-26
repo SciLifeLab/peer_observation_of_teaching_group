@@ -8,8 +8,8 @@ tags:
 
 There are multiple ways to follow us:
 
-- [Slack](#slack)
-- [Email list](#email-list)
+- ![Slack logo](slack_logo_34_x_34.png) [Slack](#slack)
+- ![FreeLists logo](freelists_logo_114_x_34.png) [Email list](#email-list)
 
 ## Slack
 
