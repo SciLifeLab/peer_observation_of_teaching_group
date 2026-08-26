@@ -35,7 +35,7 @@ or [contribute to this website](contributing.md)
 ## Email list
 
 You can send your question to it: simply send an email to
-`peer_observation_of_teaching@freelists.org`. 
+`peer_observation_of_teaching@freelists.org`.
 
 ## Email
 
