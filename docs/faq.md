@@ -7,157 +7,160 @@ tags:
 
 # FAQ
 
-## What is the goal of the peer observation group?
+## What is the goal of this group?
 
-The goal of this teaching literature club is
-to become better teachers
+The goal of this group is
+to practice peer observation (of teaching)
+to become a better teacher
 
-## How do I know when meetings are?
+## What is peer observation?
 
-The schedule [at the main page](README.md) shows when the meetings are.
+Peer observation (of teaching) is the observation of a teaching session,
+after which this session is used as a shared experience to be discussed
+as equals.
 
-## How do I know which paper or book chapter will be discussed?
+This follows the 'Peer review model' from `[Gosling, 2002]`, below:
 
-Papers will be scheduled ahead of time,
-ideally at least one month in advance.
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-The paper presenter, however, is perfectly excused
-from meeting this ideal: work comes first.
+**Characteristic**                   | **Peer Review Model**
+-------------------------------------|------------------------------------------------------------
+Who does it and to whom?             | Teachers observe each other
+Purpose                              | Analysis, discussion, wider experience of teaching methods
+Outcome                              | Non-judgemental, constructive feedback
+Relationship of observer to observed | Equality/mutuality
+Confidentiality                      | Between observer and the observed
+Judgement                            | Non-judgemental, constructive feedback
+What is observed?                    | Teaching performance, class, learning materials
+Who benefits?                        | Mutual between peers
+Conditions for success               | Teaching is valued, discussed
+Risks                                | Complacency, conservatism, unfocused
 
-## Why is there no emaillist?
+<!-- markdownlint-enable MD013 -->
 
-Because no need for it is felt yet.
-You are encouraged to volunteer to maintain one :-)
+## How does a peer observation work?
 
-## How does a meeting go?
+For the peer observation of one teaching session,
+there are three contact moments:
 
-When you show up at a meeting,
-someone has prepared to discuss a paper or book chapter.
-This paper or book chapter is announced on this site,
-ideally at least one month in advance.
+```mermaid
+flowchart TD
+    pre-meeting --> observation --> post-meeting
+```
 
-The person having picked the reading material determines freely:
+To make a peer observation a pleasant experience,
+these are some recommendations, from `[Siddiqui et al., 2007]`:
 
-- whether there is a presentation about the reading material
-- how to lead a discussion on the reading material
+Tip | Title, from `[Siddiqui et al., 2007]`
+----|-------------------------------------------------------------------
+1   | Choose the observer carefully
+2   | Set aside time for the peer observation
+3   | Clarify expectations
+4   | Familiarise yourself with the course
+5   | Select the instrument wisely
+6   | Include students
+7   | Be objective
+8   | Resist the urge to compare with your own teaching style
+9   | Do not intervene
+10  | Follow the general principles for feedback
+11  | Respect confidentiality
+12  | Make it a learning experience
 
-## I am not part of SciLifeLab. Am I welcome?
+Here are the phases combined with the recommendations from
+`[Siddiqui et al., 2007]` combined:
+
+
+```mermaid
+flowchart TD
+  subgraph schedule[Schedule]
+    tip_1[1. Choose the observer carefully]
+    tip_4[4. Familiarise yourself with the course]
+    tip_5[5. Select the instrument wisely]
+  end
+  subgraph pre-meeting[Pre-meeting]
+    tip_2[2. Set aside time for the peer observation]
+    tip_3[3. Clarify expectations]
+    tip_11[11. Respect confidentiality]
+  end
+  subgraph observation[Observation]
+    tip_6[6. Include students]
+    tip_9[9. Do not intervene]
+  end
+  subgraph post-meeting[Post-meeting]
+    tip_7[7. Be objective]
+    tip_8[8. Resist the urge to compare with your own teaching style]
+    tip_10[10. Follow the general principles for feedback]
+    tip_12[12. Make it a learning experience]
+  end
+  schedule --> pre-meeting --> observation --> post-meeting
+```
+
+## Why is peer observation important?
+
+- Peer observation of teaching is
+  **one of the two most important ways**
+  to grow as a teacher `[Lowyck and Verloop, 1995]`.
+- Peer observation of teaching is **thé** tool of choice
+  to support the educational development of university teachers
+  `[Bélisle and Fernandez, 2024]`
+- in professional teacher development in universities,
+  peer observation of teaching is **one of the few things**
+  valued among university teachers `[Smith and Wyness, 2025]`
+
+## How important are peer observations compared to other activities?
+
+- It is among the **two** most important ways to grow as a teaching
+  (the other being self-reflection)
+  `[Lowyck and Verloop, 1995]`.
+- It is the **one** tool of choice to support
+  the educational development of university teachers
+  `[Bélisle and Fernandez, 2024]`
+- It is **one of the few things**
+  valued among university teachers
+  as a professional teacher development activity
+  `[Smith and Wyness, 2025]`
+- On their own, workshops are not enough
+  to actually grow as a teacher `[Steinert et al., 2016]`
+- There is no evidence that feedback from learners
+  improves teaching `[Kember et al., 2002]`
+
+## How do I know when I can possibly observe?
+
+Opportunities to observe are announced in:
+
+- The SciLifeLab `#peer-observation-of-teaching` channel
+- The email list
+
+## I am not part of SciLifeLab. Am I welcome to join?
 
 Yes.
-
-## I want to attend and will be 5 minutes late. Am I welcome?
-
-Yes.
-
-There is a chance the literature club has been cancelled, if,
-for example, there are zero attendees at the starting time.
-
-## I want to attend without having read the paper. Am I welcome?
-
-Yes.
-
-## I want to attend without suggesting to read a paper. Am I welcome?
-
-Yes.
-
-## I want to discuss a paper or book chapter. How do I do so?
-
-Great!
-
-**First**, we need to know, so we can put you in the schedule and share
-the reading materials one meeting in advance with the rest.
-
-To let us know:
-[create an issue](https://github.com/SciLifeLab/peer_observation_of_teaching_group/issues)
-or send an email to `richel.bilderbeek@icm.uu.se`.
-
-**Second**, on the day you discuss a paper or book chapter,
-you may determine freely:
-
-- whether there is a presentation about the reading material
-- how to lead a discussion on the reading material
-
-The meeting will end sharply on time!
-
-## I present a something and need to cancel at the last minute. What do I do?
-
-Create an Issue here or send an email to `richel.bilderbeek@icm.uu.se`.
-Elin and Richel will always have a paper to be discussed ready.
-
-## Why online-only?
-
-SciLifeLab is a national organisation throughout Sweden,
-hence online is the norm.
-
-## Why not hybrid?
-
-We felt it was reasonable to start online-only first.
-Hybrid meetings are more complex,
-but we can imagine we go hybrid one day,
-when groups in different cities start gathering.
-
-## Why not meet in real life?
-
-SciLifeLab is a national organisation throughout Sweden,
-so meeting in real life (in any one place) would exclude most of SciLifeLab.
-
-## Why monthly?
-
-A successful journal club meets at
-regular and predictable intervals `[Deenadayalan et al., 2008]`.
-
-For this club, we felt that monthly is a reasonable starting frequency.
-If the schedule starts overflowing,
-we will consider doing this every two weeks.
-
-## Who is/are the organizers?
-
-Within an effective journal club it is clear who
-(singular or plural) leads it `[Deenadayalan et al., 2008]`.
-
-Currently, Richel is chairman and Elin is vice chairman.
-
-## Why not organise this differently?
-
-Because this is the current plan.
-
-There are points we feel we can deviate from the literature:
-
-- In this club, attendance is not expected and not recorded and not mandatory
-  (instead of the advice to have attendance expected and/or recorded
-  and/or mandatory `[Deenadayalan et al., 2008]`).
-  We feel this does not fit the SciLifeLab life of flexible schedule
-
-You can share your feedback at this repository by:
-
-- creating an [Issue](https://github.com/SciLifeLab/peer_observation_of_teaching_group/issues):
-  this results in a public discussion and require a GitHub account
-- sending an email to `richel.bilderbeek@icm.uu.se`
-- share your feedback in the next round:
-  a round of collection of feedback is planned in November,
-  i.e. after the third meeting.
-  These results will probably be shared in December,
-  i.e. during the fourth meeting.
-
-## Why is the name so clumsy?
-
-For two reasons:
-
-- is uses only simple words, hence no 'pedagogy' in the name
-- at least one of the organizers thinks
-  it is funny to have such a clumsy name,
-  as it is unclear if it is a club to
-  read the pedagogy literature or that it
-  teaches literature.
-
-## What is the number of visitors per event?
-
-The number of visitors per event can be found
-at [the 'Data' page](data.md).
 
 ## References
 
-- `[Deenadayalan et al., 2008]`
-  Deenadayalan, Yamini, et al.
-  "How to run an effective journal club: a systematic review."
-  Journal of evaluation in clinical practice 14.5 (2008): 898-911.
+- `[Bélisle and Fernandez, 2024]`
+  Bélisle, Marilou, Valérie Jean, and Nicolas Fernandez.
+  "The educational development of university teachers:
+  mapping the landscape." Frontiers in Education.
+  Vol. 9. Frontiers Media SA, 2024.
+- `[Kember et al., 2002]`
+  Kember, David, Doris YP Leung, and KyP Kwan.
+  "Does the use of student feedback questionnaires improve
+  the overall quality of teaching?."
+  Assessment & Evaluation in Higher Education 27.5 (2002): 411-425.
+- `[Lowyck and Verloop, 1995]`
+  Lowyck, Joost, and Nico Verloop. Onderwijskunde:
+  een kennisbasis voor professionals. Wolters-Noordhoff, 1995.
+- `[Siddiqui et al., 2007]`
+  Siddiqui, Zarrin Seema, Diana Jonas-Dwyer, and Sandra E. Carr.
+  "Twelve tips for peer observation of teaching."
+  Medical teacher 29.4 (2007): 297-300.
+- `[Smith and Wyness, 2025]`
+  Smith, Bethany, and Lynne Wyness.
+  "What makes professional teacher development in universities effective?
+  Lessons from an international systematised review."
+  Professional Development in Education 51.7 (2025): 1550-1572.
+  [DOI](https://doi.org/10.1080/19415257.2024.2386666)
+- `[Steinert et al., 2016]`
+  Steinert, Yvonne, et al. "A systematic review of faculty development
+  initiatives designed to enhance teaching effectiveness:
+  A 10-year update: BEME Guide No. 40." Medical teacher 38.8 (2016): 769-786.

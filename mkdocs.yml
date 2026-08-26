@@ -3,16 +3,12 @@ site_name: Peer Observation of Teaching Group
 repo_url: https://github.com/SciLifeLab/peer_observation_of_teaching_group
 
 nav:
-  - About:
-      - About us: README.md
-  - Events: events/README.md
-  - FAQ:
-      - Frequently asked questions: faq.md
+  - Welcome: README.md
+  - Frequently asked questions: faq.md
   - Misc:
-      - Data: data.md
       - Code of conduct: code_of_conduct.md
       - Contributing: contributing.md
-      - Reflections: reflections.md
+  - Contact us: contact_us.md
 
 theme:
   name: material
