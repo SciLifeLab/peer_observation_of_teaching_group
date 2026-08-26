@@ -15,11 +15,12 @@ Never hesitate to contact us!
 
 These channels are available:
 
-
-- ![Slack logo](slack_logo_34_x_34.png) [Slack](#slack)
-- ![GitHub logo](github_logo_34_x_34.png) [GitHub](#github)
-- ![FreeLists logo](freelists_logo_114_x_34.png) [Email list](#email-list)
-- ![Email logo](email_34_x_34.png) [Email](#email)
+Logo                                           |Method to contact us
+-----------------------------------------------|-------------------------
+![Slack logo](slack_logo_34_x_34.png)          |[Slack](#slack)
+![GitHub logo](github_logo_34_x_34.png)        |[GitHub](#github)
+![FreeLists logo](freelists_logo_114_x_34.png) |[Email list](#email-list)
+![Email logo](email_34_x_34.png)               |[Email](#email)
 
 ## Slack
 
