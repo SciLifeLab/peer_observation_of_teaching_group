@@ -20,12 +20,7 @@ to become a better teacher
 
 ## How do I know when I can possibly observe?
 
-Opportunities to observe are announced in:
-
-- ![Slack logo](slack_logo_34_x_34.png) [Slack](follow_us.md#slack).
-  See [How to follow us on Slack](follow_us.md#slack)
-- ![FreeLists logo](freelists_logo_114_x_34.png) [Email list](follow_us.md#email-list)
-  See [How to follow us using an email list](follow_us.md#email-list)
+By [following us](follow_us.md).
 
 ## I am not part of SciLifeLab. Am I welcome to join?
 
