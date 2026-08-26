@@ -4,6 +4,7 @@ repo_url: https://github.com/SciLifeLab/peer_observation_of_teaching_group
 
 nav:
   - Welcome: README.md
+  - Follow us: follow_us.md
   - Frequently asked questions: faq.md
   - Misc:
       - Code of conduct: code_of_conduct.md
