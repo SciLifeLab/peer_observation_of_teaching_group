@@ -302,6 +302,9 @@ RPE
 VTA
 dimensionality
 timespan
+HPC
+NAISS
+UPPMAX
 Aronoff
 Corwin
 McCann
