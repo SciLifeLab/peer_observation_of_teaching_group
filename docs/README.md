@@ -28,6 +28,8 @@ Your questions are answered in [the frequently asked questions](faq.md).
 These are events that are open for peer observation:
 simply contact the person to observe and take it from there :+1:
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 **Who**                                                                     |**When**                                         | **What**
 ----------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------
 [Richel](https://www.uu.se/en/contact-and-organisation/staff?query=N21-617) |2026-09-14 13:00-16:00                           | [NAISS Connect and File Transfer course](https://hpc.pages.naiss.se/training/connect-transfer/)
@@ -40,3 +42,5 @@ simply contact the person to observe and take it from there :+1:
 [Richel](https://www.uu.se/en/contact-and-organisation/staff?query=N21-617) |2026-11-03 all day                               | [Intro to UPPMAX Day 1](https://uppmax.github.io/uppmax_intro_day_1/)
 [Richel](https://www.uu.se/en/contact-and-organisation/staff?query=N21-617) |2026-11-16 all day                               | [HPC Python Day 1](https://uppmax.github.io/naiss_intro_python/schedule/)
 [Richel](https://www.uu.se/en/contact-and-organisation/staff?query=N21-617) |2026-11-18 9:00-12:00                            | [HPC Python Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs)
+
+<!-- markdownlint-enable MD013 -->
